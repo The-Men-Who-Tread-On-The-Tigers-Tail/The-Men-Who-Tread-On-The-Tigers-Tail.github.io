@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://The-Men-Who-Tread-On-The-Tigers-Tail.github.io/posts/my-first-post/</loc>
-    <lastmod>2022-08-13T02:15:01+02:00</lastmod>
+    <loc>http://The-Men-Who-Tread-On-The-Tigers-Tail.github.io/posts/my-second-post/</loc>
+    <lastmod>2022-08-13T08:56:58+02:00</lastmod>
   </url><url>
     <loc>http://The-Men-Who-Tread-On-The-Tigers-Tail.github.io/posts/</loc>
-    <lastmod>2022-08-13T02:15:01+02:00</lastmod>
+    <lastmod>2022-08-13T08:56:58+02:00</lastmod>
   </url><url>
     <loc>http://The-Men-Who-Tread-On-The-Tigers-Tail.github.io/</loc>
+    <lastmod>2022-08-13T08:56:58+02:00</lastmod>
+  </url><url>
+    <loc>http://The-Men-Who-Tread-On-The-Tigers-Tail.github.io/posts/my-first-post/</loc>
     <lastmod>2022-08-13T02:15:01+02:00</lastmod>
   </url><url>
     <loc>http://The-Men-Who-Tread-On-The-Tigers-Tail.github.io/categories/</loc>
